@@ -18,7 +18,7 @@
 | Anuj Kumar         | 1DA23AI005    |
 | Lekhana C R        | 1DA23CS089    |
 | Manushree S        | 1D23CS108     |
-| Sanika S           | 1DA24EC129    |
+| Sanika T           | 1DA24EC129    |
 | Sneha K            | 1TU24IS097    |
 | Sujan Bhatti       | 1TU24CS197    |
 | Gagana Shri RK     | 1TU24IS030    |
